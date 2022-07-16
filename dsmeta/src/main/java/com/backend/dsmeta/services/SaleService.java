@@ -1,6 +1,6 @@
 package com.backend.dsmeta.services;
 
-import com.backend.dsmeta.dto.SaleDto;
+
 import com.backend.dsmeta.entities.Sale;
 import com.backend.dsmeta.repositories.SaleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
